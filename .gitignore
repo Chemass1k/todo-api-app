@@ -1,0 +1,18 @@
+# ASP.NET
+bin/
+obj/
+*.user
+*.suo
+appsettings.Development.json
+*.db
+
+# React
+node_modules/
+dist/
+.env
+.vite/
+
+# VS Code / system
+.vscode/
+*.log
+*.DS_Store
